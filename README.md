@@ -13,7 +13,6 @@ We will realse the code in the future.
 we supply the video of modality factor traversal results to show the continuous cross modality translation process clearly. In the video, the first three rows show input examples from training set and the fourth row shows input examples from testing set.
 
 ![](log/Modality_Traversal_Examples3.gif)
-%![Exp_CUFSF_extra.jpg](https://i.loli.net/2019/10/28/CQWoONR51w6xsTe.jpg)
 
 ### Additonal results of modality factor traversal 
 
