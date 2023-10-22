@@ -1,5 +1,5 @@
 # CMDR-HFA
-Cross Modality Disentangled Representation for Heterogeneous Face Analysis
+Universal Heterogeneous Face Analysis via Multi-Domain Feature Disentanglement
 
 We will realse the code in the future.
 
