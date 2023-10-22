@@ -1,4 +1,4 @@
-# CMDR-HFA
+# MDMF-HFA
 Universal Heterogeneous Face Analysis via Multi-Domain Feature Disentanglement
 
 We will realse the code in the future.
