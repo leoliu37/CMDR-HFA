@@ -1,7 +1,6 @@
 # MDMF-HFA
 Universal Heterogeneous Face Analysis via Multi-Domain Feature Disentanglement
 
-We will realse the code in the future.
 
 ## Requirements
 - Python 3.6
@@ -31,4 +30,6 @@ Here we present additional latent factors traversal results on CUFSF sketch data
 ![The 114th discovered factor traversal](log/Z114_1.png)
 
 ## Citation
+
+
 
